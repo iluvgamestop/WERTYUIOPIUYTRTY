@@ -1,4 +1,4 @@
-﻿token=NTE1ODI1MDkxNjU3ODU5MDcy.DtqwOA.m85SVdB5YayZhsl8BiGH4M7Has8
+﻿token="NTE1ODI1MDkxNjU3ODU5MDcy.DtqwOA.m85SVdB5YayZhsl8BiGH4M7Has8"
 owner=494456272922476549
 prefix=1
 game= Type 1help
